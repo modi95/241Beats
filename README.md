@@ -16,6 +16,4 @@ The idea was decided upon.<br>
 Development has not as yet begun on this project
 
 
-
-#####Computer Science
-####University of Illinois at Urbana Champaign
+####Computer Science<br>University of Illinois at Urbana Champaign
