@@ -2,7 +2,7 @@
 ============
 
 ##General Idea
-Our goal is to build a decentralized music player which plays music on multiple android phones. All these phones will use play a single playlist shared playlist that can be edited by any phone. Furthermore, playback on all phones will be synchroned so that all phones play the same music at all times. This also means that any phone can control music (pause / skip / etc) on all other phones.
+Our goal is to build a decentralized music player which plays music on multiple android phones. All these phones will play a single playlist shared playlist that can be edited by any phone. Furthermore, playback on all phones will be synchroned so that all phones play the same music at all times. This also means that any phone can control music (play / pause / skip / etc) on all other phones.
 
 ##Collaborators
 
@@ -15,5 +15,5 @@ Yisong Yue [yyue7@illinois.edu]
 The idea was decided upon.<br>
 Development has not as yet begun on this project
 
-
+https://github.com/afekete/CS241-Honors/wiki/Groups
 ####Computer Science<br>University of Illinois at Urbana Champaign
