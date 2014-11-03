@@ -10,10 +10,16 @@ Abhishek Modi [akmodi2@illinois.edu]<br>
 Haozhen Ding [hding8@illinois.edu]<br>
 Yisong Yue [yyue7@illinois.edu]
 
-##Week of Monday Oct 27
+##Log
+
+####Week of Monday Nov 3
+Hope to start development soon.
+
+####Week of Monday Oct 27
 
 The idea was decided upon.<br>
 Development has not as yet begun on this project
 
+<br>
 https://github.com/afekete/CS241-Honors/wiki/Groups
-####Computer Science<br>University of Illinois at Urbana Champaign
+######Computer Science<br>University of Illinois at Urbana Champaign
