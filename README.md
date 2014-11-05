@@ -18,6 +18,7 @@ Hope to start development soon.
 ####Week of Monday Oct 27
 
 The idea was decided upon.<br>
+May need help integrating Java with C.
 Development has not as yet begun on this project
 
 <br>
