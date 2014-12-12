@@ -21,6 +21,31 @@ The idea was decided upon.<br>
 May need help integrating Java with C.<br>
 Development has not as yet begun on this project
 
+#### Yisong Yue's log
+##### Week of Oct 27
+Discussed and decided on the project idea.
+
+##### Week of Nov 3
+Installed Eclipse and NDK.<br>
+Tried to run the emulator with NDK example apps.<br>
+Read about JNI and other related things.
+
+##### Week of Nov 10
+Received the Android phone.<br>
+Installed and ran NDK apps on the phone.<br>
+Looked more closely into the native audio app and its code. More reading.
+
+##### Week of Nov 17
+Ran and tested the audio-playing portion of the app written by teammates.
+
+##### Week of Nov 24
+Thanksgiving break.<br>
+Learned about sockets and server-client communication for NDK, and planned for this portion of the app.
+
+##### Week of Dec 1
+Wrote some functions to set up clients for receiving and sending data from/to the server.
+
 <br>
+
 https://github.com/afekete/CS241-Honors/wiki/Groups
 ######Computer Science<br>University of Illinois at Urbana Champaign
