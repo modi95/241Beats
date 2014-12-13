@@ -11,9 +11,7 @@ Haozhen Ding [hding8@illinois.edu]<br>
 Yisong Yue [yyue7@illinois.edu]
 
 ##Demo
-https://www.youtube.com/watch?v=BZU_ijYBik0&feature=youtu.be
-Please note that there is an audio sync issue with this video.
-The audio seems like it's a few seconds ahead of the rest of the video.
+https://www.youtube.com/watch?v=NFuqrEvgzv8&feature=youtu.be
 
 #Abhishek Modi's Log
 
