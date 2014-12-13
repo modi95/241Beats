@@ -12,7 +12,9 @@ import android.widget.TextView;
 
 
 public class MainActivity extends Activity {
-	
+	static {
+	    System.loadLibrary("ndk1");
+	}
 	private native String receiver(int sockfd);
 	private native void sender(int sock_fd, String stdata);
 	private native int buildClient(String URL, String PORT);
