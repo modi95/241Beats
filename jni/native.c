@@ -29,8 +29,8 @@ int Java_com_akmodi2_beats241_MainActivity_buildClient(JNIEnv * env, jobject thi
     char* URL;
     char* PORT;
 
-    URL = (*env)->GetStringUTFChars(evn, stURL, &isCopy);
-    PORT = (*env)->GetStringUTFChars(evn, stPORT, &isCopy);
+    URL = (*env)->GetStringUTFChars(env, stURL, &isCopy);
+    PORT = (*env)->GetStringUTFChars(env, stPORT, &isCopy);
 
     struct addrinfo hints, *result;
     memset(&hints, 0, sizeof(struct addrinfo));
