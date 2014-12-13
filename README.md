@@ -10,7 +10,10 @@ Abhishek Modi [akmodi2@illinois.edu]<br>
 Haozhen Ding [hding8@illinois.edu]<br>
 Yisong Yue [yyue7@illinois.edu]
 
-##Abhishek's Log
+##Demo
+https://www.youtube.com/watch?v=BZU_ijYBik0&feature=youtu.be
+
+#Abhishek Modi's Log
 
 ####Week of Monday Dec 7
 
@@ -48,7 +51,7 @@ Development has not as yet begun on this project
 
 
 
-#### Yisong Yue's log
+# Yisong Yue's log
 ##### Week of Oct 27
 Discussed and decided on the project idea.
 
