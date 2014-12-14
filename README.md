@@ -77,6 +77,33 @@ Learned about sockets and server-client communication for NDK, and planned for t
 ##### Week of Dec 1
 Wrote some functions to set up clients for receiving and sending data from/to the server.
 
+
+
+# Haozhen Ding's log
+##### Week of Oct 27
+The group discussed about project ideas, and made decision on the music player.
+
+##### Week of Nov 3
+Followed the tutorials for installing NDK and ADT.<br>
+Looked at NDK documentations and sample apps.
+
+##### Week of Nov 10
+Studied the native audio playing app and the code.<br>
+Wrote a simple audio playing app that had a play and a pause button.
+
+##### Week of Nov 17
+Learnt about Android app structures and how to incorporate Java and C code in a app.
+
+##### Week of Nov 24
+Thanksgiving break.<br>
+More readings about multi-threading in Android apps using NDK.
+
+##### Week of Dec 1
+Tested the server-client communication module of the app.
+ 
+
+
+
 <br>
 
 https://github.com/afekete/CS241-Honors/wiki/Groups
