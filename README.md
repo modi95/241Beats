@@ -11,7 +11,9 @@ Haozhen Ding [hding8@illinois.edu]<br>
 Yisong Yue [yyue7@illinois.edu]
 
 ##Demo
-https://www.youtube.com/watch?v=NFuqrEvgzv8&feature=youtu.be
+Youtube:
+
+[![Demo](http://img.youtube.com/vi/NFuqrEvgzv8/0.jpg)](http://www.youtube.com/watch?v=NFuqrEvgzv8)
 
 Please note that while the app will compile, it is almost guaranteed to crash on launch if the server is not running as well. Please configure the settings for your server in the native code. I have removed the server config in the native code for to make it clearer as to what needs to be changed.
 
